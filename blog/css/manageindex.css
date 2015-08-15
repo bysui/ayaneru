@@ -1,0 +1,46 @@
+div.publish{
+	width: 80px;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	text-align: center;
+	background-color: #77FF00;
+	border-radius: 10px;
+	font-family: kaiti;
+	font-size: 1.5em;
+	margin: 0px 0px 20px;
+}
+
+.operation a.delete{
+	font-size: 1.2em;
+	border: solid 1px #333;
+	border-radius: 8px;
+	padding: 3px;
+	background-color: #FF3333;	 
+}
+
+.operation a.alter{
+	font-size: 1.2em;
+	border: solid 1px #333;
+	border-radius: 8px;
+	padding: 3px;
+	background-color: #0066FF;
+}
+
+h3.title{
+	font-family: kaiti;
+	font-size: 2.0em;
+	margin: 0 0 20px 0;
+}
+
+a.h3.title{
+	font-family: kaiti;
+	font-size: 2.0em;
+	margin: 0 0 20px 0;
+}
+
+div.titlelist{
+	margin-bottom: 10px;
+	padding: 10px 0 10px 0;
+	border-bottom: solid 1px #ddd;
+}

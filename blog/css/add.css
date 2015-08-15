@@ -1,0 +1,38 @@
+label {
+	font-family: kaiti;
+	font-size: 2em;
+}
+
+div.title{
+	line-height: 2em;
+	margin-bottom: 20px;
+}
+
+div.body{
+
+}
+
+input#Content_title{
+	height: 25px;
+	width: 330px;	
+}
+
+textarea#Content_body{
+	width: 400px;
+	height: 200px;
+	margin: 0px;
+}
+
+input[type="submit"]{
+	width: 71px;
+	height: 33px;
+	font-size: 1.4em;
+	font-family: kaiti;
+	font-weight: bolder;
+	background-color: #33FF33;
+	margin: 10px 0px 0px 52px;	
+}
+
+.leftfloat{
+	margin-right: 5px;
+}

@@ -1,0 +1,33 @@
+body, p, div, head, span, li{
+	border: 0px;
+	margin: 0px;
+	display: block;
+}
+
+.clearfix:after {
+  content: " ";
+  display: block;
+  clear: both;
+  height: 0;
+}
+.clearfix {
+  zoom: 1;
+}
+
+.container80 {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.leftfloat {
+	float: left;
+}
+
+.rightfloat{
+	float: right;
+}
+
+#nav li {
+	text-align: center;
+	
+}
